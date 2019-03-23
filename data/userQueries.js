@@ -39,6 +39,5 @@ module.exports = {
                     cb(null, result);
                 }
             })
-
     },
 };
